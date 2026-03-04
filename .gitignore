@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#vscode settings
+
+ThreatModeler.code-workspace
+
+# Threat Modeling AI - Generated Files
+*.db
+*.db-journal
+threat_model.db
+output/
+ai_integrations/Content_Creation/output/

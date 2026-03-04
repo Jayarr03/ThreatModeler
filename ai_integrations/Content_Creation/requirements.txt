@@ -1,0 +1,19 @@
+# AI-Driven Threat and Security Requirements Generation
+# Dependencies for threat modeling system
+
+# OpenAI API
+openai>=1.0.0
+
+# Data processing and analysis
+pandas>=2.0.0
+
+# Environment configuration
+python-dotenv>=1.0.0
+
+# Retry logic for API calls
+retry>=0.9.2
+
+# Data validation
+jsonschema>=4.0.0
+
+# Note: SQLite3 is included in Python standard library
