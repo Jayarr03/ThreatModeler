@@ -1,6 +1,6 @@
 # AI-Driven Threat Modeling System
 
-Automated threat modeling system that analyzes components (hardware or software) and generates security threats, requirements, and test cases using OpenAI GPT-4.
+Automated threat modeling system that analyzes components (hardware or software) and generates security threats, requirements, and test cases using OpenAI GPT-4. This is a community created AI integration that is seperate from the central AI in ThreatModeler - Wingman. 
 
 ## Quick Start
 
