@@ -2,16 +2,6 @@
 
 Generate high-likelihood attack paths using MITRE ATT&CK framework, ThreatModeler threat intelligence, and OpenAI's language models.
 
-## Phase 1 - Complete ✓
-
-All core components are implemented and production-ready:
-- ThreatModeler API client with project search
-- MITRE ATT&CK data fetcher with 7-day caching
-- OpenAI API wrapper for attack path generation  
-- **Parallel processing** for efficient threat analysis
-- Colored logging framework
-- Command-line interface with multiple options
-
 ## Quick Start
 
 ### 1. Install Dependencies
@@ -160,14 +150,6 @@ Attack_Path/
 | `MIN_LIKELIHOOD_SCORE` | Minimum score to include | 5 |
 | `MAX_WORKERS` | **Concurrent OpenAI API calls** | 8 |
 | `MAX_THREATS_TO_PROCESS` | **Limit threats (0 = all)** | 0 |
-
-## Next Steps (Phase 2)
-
-Phase 2 will add intelligent threat-to-technique mapping:
-- Automated correlation between ThreatModeler threats and MITRE techniques
-- Confidence scoring for mappings
-- Context-aware technique selection
-- Enhanced attack path relevance
 
 ## Troubleshooting
 
