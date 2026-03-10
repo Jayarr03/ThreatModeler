@@ -1,0 +1,19 @@
+# Core Dependencies
+openai>=1.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# MITRE ATT&CK Integration
+stix2>=3.0.0
+mitreattack-python>=3.0.0
+
+# Logging and Utilities
+colorlog>=6.7.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
