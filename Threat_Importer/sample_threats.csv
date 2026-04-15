@@ -1,0 +1,3 @@
+targetNode,threatName,threatDescription,threatSeverity,libraryId,srName,srDescription,srSeverity,srLibraryId
+Web Application,Manually Created Threat,<p>Description of the threat.</p>,high,10,Implement Input Validation,<p>Validate all user input server-side.</p>,high,10
+Web Application,Manually Created Threat,<p>Description of the threat.</p>,high,10,Manual Security Requirement,<p>Validate all user input server-side.</p>,high,10

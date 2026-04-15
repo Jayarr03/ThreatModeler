@@ -216,3 +216,6 @@ ThreatModeler.code-workspace
 threat_model.db
 output/
 ai_integrations/Content_Creation/output/
+*.json
+*.old
+
